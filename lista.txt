@@ -1,0 +1,5 @@
+Frutas:
+- Banana
+- Abacaxi
+- Manga
+- Melancia
